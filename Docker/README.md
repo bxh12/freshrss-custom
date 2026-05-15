@@ -271,6 +271,8 @@ sudo nano /var/lib/docker/volumes/freshrss_data/_data/config.php
 
 ## Docker Compose
 
+For a concrete self-hosting runbook tailored to this repository (including custom extensions), see [`freshrss/SELF_HOSTING_CUSTOM.md`](./freshrss/SELF_HOSTING_CUSTOM.md).
+
 First, put variables such as passwords in your `.env` file, which can live where your `docker-compose.yml` should be. See [`example.env`](./freshrss/example.env).
 
 ```ini
