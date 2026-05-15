@@ -6,7 +6,7 @@ with all the needed tools and configurations, to develop and test [FreshRSS](htt
 It can be used on your local machine (see for instance the [Dev Containers extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)),
 or as [GitHub Codespaces](https://github.com/features/codespaces) simply in a Web browser:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=edge&repo=6322699)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/bxh12/freshrss-custom?ref=edge)
 
 ## Test instance of FreshRSS
 
