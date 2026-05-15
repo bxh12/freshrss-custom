@@ -60,15 +60,15 @@ Persistent storage is already configured:
 
 ## 4) Custom extensions workflow
 
-1. Put each extension in its own folder under the mounted `extensions` directory.
+1. Put each extension in its own directory under the mounted `extensions` directory.
 2. Ensure each extension includes expected files such as:
 	- `extension.php`
 	- `metadata.json`
 3. Keep `extensions/README.md` and `extensions/.gitignore` untouched.
 4. Enable and configure from **Configuration -> Extensions** in the UI.
 5. Team workflow recommendation:
-	- Keep extension source in git.
-	- Sync/release extension folders into the mounted extensions volume.
+	- Keep extension source in Git.
+	- Sync/release extension directories into the mounted extensions volume.
 
 ## 5) Run official image vs custom fork
 
