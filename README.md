@@ -38,7 +38,7 @@ We are a friendly community.
 
 To facilitate contributions, the [following option](.devcontainer/README.md) is available:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=edge&repo=6322699)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/bxh12/freshrss-custom?ref=edge)
 
 ## Screenshot
 
